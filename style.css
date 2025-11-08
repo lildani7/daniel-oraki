@@ -1,0 +1,124 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+header
+{
+    background-color: rgba(0, 60, 255, 0.622);
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+    margin: 0px 0px;
+    margin-bottom: 50px;
+}
+header p 
+{
+    font-size: 19px;
+}
+#uni:hover
+{
+    background-color:antiquewhite;
+}
+.MyPic
+{
+    width:300px;
+    height:300px;
+    display:block;
+    margin: 25px auto;
+    border: 5px solid rgba(0, 60, 255, 0.622);
+    padding: 15px;
+    background-color:rgba(0, 210, 247, 0.244);
+    border-radius: 30px;
+    margin-bottom: 100px;
+}
+table,th,td
+{
+    border: 1px solid #444;
+}
+table
+{
+    border-collapse: collapse;
+    margin: 75px auto 0px auto;
+}
+th
+{
+    color: #f5f7fa;
+    background-color:rgba(0, 60, 255, 0.622) ;
+}
+td
+{
+    background-color:rgba(0, 210, 247, 0.244);
+}
+h3
+{
+    font-weight: normal;
+    color: rgb(220, 52, 26);
+}
+ul
+{
+    background-color:rgba(0, 60, 255, 0.622) ;
+    padding-left: 18px;
+    border: 5px dashed rgb(201, 52, 26);
+    width: 25%;
+    display: block;
+    margin: 45px 0px;
+}
+ul li
+{
+    background-color: rgb(0, 210, 247);
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+#tataloo
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#tataloo img
+{
+    width: 300px;
+    height: 400px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    margin: 50px 0px;
+    border: 5px solid rgb(220, 52, 26);
+    padding: 15px;
+    border-radius: 30px;
+    background-color: rgb(255, 191, 0);
+}
+.contact
+{
+    background-color: rgb(247, 24, 24);
+    color: white;
+    padding: 30px 20px;
+    text-align:center;
+    margin-top: 50px;
+}
+section
+{
+    padding: 30px 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1)
+}
+.foot
+{
+    text-align: center;
+    padding: 20px;
+    color: #555;
+    margin-top: 30px;
+    font-weight: 700;
+}
+.tatalYT
+{
+    font-weight: 700;
+    text-decoration:none;
+    text-shadow: 2px 2px 5px red;
+}
+.tatalYT:hover
+{
+    background-color: rgb(255, 191, 0);
+}
